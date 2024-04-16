@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(185, 219, 248);
+}
+.heading {
+        font-style: normal;
+        font-size: 40px;
+        text-align: left;
+    }
+
+.places {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.popular-places {
+    font-style: italic;
+    color: black;
+}
+.ultimate {
+    color: red;
+}
